@@ -1,2 +1,2 @@
 # IQA-for-halftone-image
-IA for glossiness assessment in halftone images.
+Image quality index for halftone image glossiness.
